@@ -1,0 +1,6 @@
+{
+  "name": "Serverless Guy",
+  "tagline": "Life without servers",
+  "body": "### Serverless samples\r\n\r\n#### Serverless application with Lambda (nodejs) + DynamoDB\r\n\r\nA simple application with CRUD API (create, read, update, delete, list) that is built with Serverless, AWS Lambda (nodejs), AWS API Gateway, and AWS DynamoDB.\r\n\r\n* Github repo: [serverless-node-dynamodb-example](https://github.com/markusklems/serverless-node-dynamodb-example)\r\n* Video: ...\r\n* Slideshare: ...\r\n\r\n### AWS Lambda samples\r\n\r\n* AWS Lambda (Java): sample application that consists of three Lambda functions using DynamoDB with triggers\r\n* AWS Lambda (nodejs): code fragments\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
